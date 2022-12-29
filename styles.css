@@ -1,0 +1,93 @@
+/*-------------------------------- RESET -----------------------------------*/
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    overflow-wrap: break-word;
+}
+
+#root,
+#__next {
+    isolation: isolate;
+}
+/*---------------------- END RESET -----------------------*/
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 1.5rem;
+    background-color: hsl(0, 0%, 100%);
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.card__title {
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.card__body {
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.card__image {
+    border-radius: 13px;
+    width: 100%;
+}
