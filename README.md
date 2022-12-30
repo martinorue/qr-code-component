@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - QR code component
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ Build out this QR code component and get it looking as close to the design as po
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/martinorue/qr-code-component)
+- Solution URL: (https://github.com/martinorue/qr-code-component)
 - Live Site URL: [Add live site URL here]()
 
 ## My process
@@ -36,37 +36,28 @@ In this challenge I wanted to apply the following topics that I have been studyi
 - mobile first approach
 - BEM naming convention
 - Semantic HTML
-- Custom Properties-CSS variables
-
 
 ### Built with
 
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
-- SVG
-- media queries
-- CSS units
-- background-position
+- BEM naming convention
+- Semantic HTML 
 
 ### Continued development
 
-- Semantic HTML
 - media queries
 - Positioning
+- Custom Properties-CSS variables
 
 ### Useful resources
 
-https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/
+(https://developer.mozilla.org/en-US/docs/Web/HTML/Element#content_sectioning)
 
-https://www.w3schools.com/css/css_rwd_intro.asp
-
-https://www.freecodecamp.org/learn/2022/responsive-web-design/
-
-https://web.dev/learn/design/
+(https://www.youtube.com/watch?v=SLjHSVwXYq4)
 
 ## Author
 
