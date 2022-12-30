@@ -27,7 +27,7 @@ Build out this QR code component and get it looking as close to the design as po
 ### Links
 
 - Solution URL: (https://github.com/martinorue/qr-code-component)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: (https://martinorue.github.io/qr-code-component/)
 
 ## My process
 
