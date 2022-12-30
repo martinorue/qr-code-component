@@ -36,6 +36,7 @@ In this challenge I wanted to apply the following topics that I have been studyi
 - mobile first approach
 - BEM naming convention
 - Semantic HTML
+- Flexbox
 
 ### Built with
 
@@ -58,6 +59,8 @@ In this challenge I wanted to apply the following topics that I have been studyi
 (https://developer.mozilla.org/en-US/docs/Web/HTML/Element#content_sectioning)
 
 (https://www.youtube.com/watch?v=SLjHSVwXYq4)
+
+(https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 
 ## Author
 
